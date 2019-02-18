@@ -7,6 +7,12 @@ names.each do |name|
 end
 
 
+puts "-------"
+
+
+(1..10).each do |num|
+  puts num
+end
 # While Loop
 
 puts "While Loop Example"
