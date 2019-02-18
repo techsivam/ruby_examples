@@ -20,3 +20,10 @@ puts "Array: #{names[4][2]}"
 
 name = "Ada"
 puts "Hello, #{name}!"
+
+
+num =[2+3,4*5,7-2]
+
+puts num.inspect
+
+puts num
