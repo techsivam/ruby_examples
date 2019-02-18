@@ -7,7 +7,6 @@ system "clear"
   <
   >=
   <=
-  bool
 
 =end
 
